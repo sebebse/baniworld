@@ -1,6 +1,18 @@
+html {
+  display: table;
+  margin: auto;
+}
 body {
   background-color: #154c79;
   color: #FFFFFF;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+img {
+  width: 800px;
+  border-style: inset;
+  border-color: #f7f499;
 }
 a:link {color: #a2c9fc;}
 a:visited {color: #efa2fc;}
