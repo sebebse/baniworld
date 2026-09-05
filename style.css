@@ -1,6 +1,8 @@
 html {
   display: table;
   margin: auto;
+  font-family: "Comic Sans MS", "Comic Sans";
+  //Thank you Cole
 }
 body {
   background-color: #154c79;
