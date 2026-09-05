@@ -17,3 +17,11 @@ img {
 }
 a:link {color: #a2c9fc;}
 a:visited {color: #efa2fc;}
+#brain {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 1000;
+  width: 100px;
+  height: auto;
+}
