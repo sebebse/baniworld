@@ -11,6 +11,7 @@ body {
   vertical-align: middle;
   text-align: center;
 }
+p{z-index: 1001;}
 img {
   border-style: inset;
   border-color: #f7f499;
